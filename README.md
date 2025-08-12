@@ -19,7 +19,7 @@ Master Artificial Intelligence, Machine Learning, Deep Learning, and Large Langu
 
 ### 1. 🐍 Practical & Scientific Python
 
-* [Complete Python Bootcamp – Udemy (José Portilla)](https://www.udemy.com/course/complete-python-bootcamp/)
+* [Complete Python Bootcamp – Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
 * [Python for Data Science, AI & Development – IBM (Coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 
 Focus: Python fundamentals and scientific libraries (NumPy, Pandas, Matplotlib, Jupyter).
