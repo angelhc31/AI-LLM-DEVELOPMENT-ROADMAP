@@ -97,11 +97,3 @@ Focus: Model deployment, monitoring, traceability, production pipelines.
 * Basics of Azure, AWS, or GCP cloud platforms.
 
 ---
-
-## How to Use This Repo
-
-* Track my progress and follow along.
-* Explore code, notes, and projects.
-* Contributions and resource suggestions are welcome!
-
----
