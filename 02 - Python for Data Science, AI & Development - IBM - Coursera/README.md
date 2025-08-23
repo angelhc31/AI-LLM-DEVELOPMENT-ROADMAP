@@ -19,7 +19,7 @@ Here you will see projects, exercises, and course material completed as part of 
 
 ## 📚 Certificate
 
-I successfully completed the course and obtained the official certificate. You can view it online [here](https://coursera.org/verify/CN9Y97JOR5CZ).
+I successfully completed the course and obtained the official certificate. You can view it online [here](https://coursera.org/verify/CN9Y97JOR5CZ) or find the PDF version in this repository:
 
 - `Coursera Certificate CN9Y97JOR5CZ.pdf`
 
