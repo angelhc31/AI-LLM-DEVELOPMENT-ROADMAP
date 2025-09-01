@@ -19,7 +19,9 @@ This specialization consists of three courses designed to provide a mathematical
 
 ## 📚 Certificate
 
-Not yet completed
+I successfully completed the specialization and obtained the official certificate. You can view it online [here](https://coursera.org/verify/specialization/L4LL5JKSH3G9) or find the PDF version in this folder:
+
+* `Coursera Certificate L4LL5JKSH3G9.pdf`
 
 ---
 
