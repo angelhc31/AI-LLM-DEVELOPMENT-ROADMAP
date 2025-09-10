@@ -1,6 +1,6 @@
 ---
 
-# 🤖 Machine Learning Specialization - Stanford University & DeepLearning.AI - Coursera
+# 🤖 Machine Learning Specialization - Stanford University & DeepLearning.AI (Andrew Ng) - Coursera
 
 [The Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
