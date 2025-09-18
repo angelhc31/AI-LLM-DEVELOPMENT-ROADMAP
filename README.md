@@ -36,7 +36,7 @@ Focus: Linear algebra, calculus, and statistics essential for ML/DL understandin
 
 ### 3. 🤖 Machine Learning
 
-* [Machine Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
+* [Machine Learning Specialization – Stanford University + DeepLearning.AI - Andrew Ng - (Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 Focus: Classical models, pipelines, regularization, evaluation, scikit-learn.
 
@@ -44,7 +44,7 @@ Focus: Classical models, pipelines, regularization, evaluation, scikit-learn.
 
 ### 4. 🧠 Deep Learning
 
-* [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)
+* [Deep Learning Specialization – DeepLearning.AI - Andrew Ng - (Coursera)](https://www.coursera.org/specializations/deep-learning)
 
 Focus: Neural networks, CNNs, RNNs, optimization, TensorFlow/Keras frameworks.
 
@@ -78,7 +78,7 @@ Focus: Agents, memory, advanced RAG, evaluation, UIs, and real-world tools.
 
 ### 8. 🧪 MLOps & LLMOps (Production)
 
-* [Machine Learning Engineering for Production (MLOps) – Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+* [Machine Learning Engineering for Production (MLOps) – DeepLearning.AI - Andrew Ng - Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 * [LLMOps – DeepLearning.AI + Google Cloud](https://www.deeplearning.ai/short-courses/llmops/)
 
 Focus: Model deployment, monitoring, traceability, production pipelines.
