@@ -19,6 +19,8 @@ This specialization is a foundational online program created in collaboration be
 
 ## 📚 Certificate
 
-Not yet completed.
+I successfully completed the specialization and obtained the official certificate. You can view it online [here](https://coursera.org/verify/specialization/TK1YWHRIUHW9) or find the PDF version in this folder:
+
+* `Coursera Certificate TK1YWHRIUHW9.pdf`
 
 ---
