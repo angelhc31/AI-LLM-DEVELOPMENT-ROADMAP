@@ -26,6 +26,13 @@ This specialization is an online program created by DeepLearning.AI, designed to
 
 ## 📚 Certificate
 
-Not yet completed
+I successfully completed the specialization and obtained the official certificate. You can view it online [here](https://coursera.org/verify/specialization/F06E5S6U3YGA) or find the PDF version in this folder:
+
+* `Coursera Certificate F06E5S6U3YGA.pdf`
+
+I have also received a badge. You can view it online [here](https://www.credly.com/go/1VhldXFr) or find the PDF version in this folder:
+
+* `DeepLearningSpecializationv.2_Badge20251220-31-d846wm.pdf`
+
 
 ---
