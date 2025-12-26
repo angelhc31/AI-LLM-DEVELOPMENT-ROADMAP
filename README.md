@@ -1,6 +1,6 @@
 ---
 
-# AI & LLM Roadmap - Learning Journey 2025 🚀
+# AI & LLM Roadmap - Learning Journey 2025-2026 🚀
 
 Welcome to my personal AI/ML/DL/LLM learning roadmap!
 In this repository, I share the courses, projects, notes, and resources I’m following to become a proficient AI engineer.
@@ -13,7 +13,7 @@ Master Artificial Intelligence, Machine Learning, Deep Learning, and Large Langu
 
 ---
 
-## 📚 Roadmap Overview (Updated 2025)
+## 📚 Roadmap Overview (Updated 2025-2026)
 
 ---
 
@@ -52,7 +52,7 @@ Focus: Neural networks, CNNs, RNNs, optimization, TensorFlow/Keras frameworks.
 
 ### 5. 🧩 NLP & Transformers
 
-* [Transformers Course – Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
+* [LLM Course – Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 
 Focus: Using models like BERT, T5, GPT with Hugging Face.
 
