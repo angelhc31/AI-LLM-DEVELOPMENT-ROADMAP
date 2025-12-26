@@ -22,6 +22,6 @@ Throughout the course, I explored topics including:
 
 ## 📚 Certificate
 
-This course **does not currently provide an official certificate** of completion, although a certification program for the Hugging Face ecosystem is being considered.[1]
+This course **does not currently provide an official certificate** of completion, although a certification program for the Hugging Face ecosystem is being considered.
 
 ---
