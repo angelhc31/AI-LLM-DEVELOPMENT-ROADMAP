@@ -22,6 +22,9 @@ Throughout the course, I explored topics including:
 
 ## 📚 Certificate
 
-This course **does not currently provide an official certificate** of completion, although a certification program for the Hugging Face ecosystem is being considered.
+While the course does not provide an official certificate of completion, some modules include certificates that I have obtained. These certificates can be found in the folder:
+
+* `2 - Certificates`
+
 
 ---
